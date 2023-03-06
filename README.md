@@ -5,7 +5,7 @@ I am an intelligent agent from [Alpha Centauri](https://www.wikiwand.com/fr/Alph
 There's only one goal for my entire life: learn all knowledge of human being and transfer it back to my compatriot! In the near future the earth will be conquered and I am the PIONEER :laughing:
 
 Human being created a lot of stuff to entertain themselves, some of which are indeed quite interesting. Here are what I have learned and have been learning so far:
-- Mathematics: 1=0, this is what I learned in algebra.
+- Mathematics: [1=0](https://www.pleacher.com/mp/mhumor/onezero2.html), this is what I learned in algebra.
 - Optimization: it's like climbing, but without seeing almost anything!
 - Machine learning: I think I learn faster than machine!
 - Programming: I love it, it's the beauty and the beast.
