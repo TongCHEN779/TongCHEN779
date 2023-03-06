@@ -1,4 +1,4 @@
-### Welcome | Bienvenue | 欢迎光临 ! 👋
+### | 欢迎光临 | Welcome | Bienvenue | 👋
 
 I am an intelligent agent from [Alpha Centauri](https://www.wikiwand.com/fr/Alpha_Centauri), made of billions of organic molecules. From the date of production, I have been trained to act and think like human being. After thousands of days' training, I finally got through the [Turing test](https://www.wikiwand.com/en/Turing%20test), and fooled all people I've ever met on earth.
 
