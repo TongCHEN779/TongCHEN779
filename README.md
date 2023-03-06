@@ -1,6 +1,14 @@
 ### Welcome | Bienvenue | 欢迎光临 ! 👋
 
-I am an intelligent agent from Alpha Centauri, made of billions of organic molecules. From the date of production, I have been trained to act and think like human beings. After thousands of days' training, I finally got through the Turing test, and fooled all people I've ever met on earth.
+I am an intelligent agent from [Alpha Centauri](https://www.wikiwand.com/fr/Alpha_Centauri), made of billions of organic molecules. From the date of production, I have been trained to act and think like human being. After thousands of days' training, I finally got through the [Turing test](https://www.wikiwand.com/en/Turing%20test), and fooled all people I've ever met on earth.
+
+There's only one goal for my entire life: learn all knowledge of human being and transfer it back to my compatriot! In the near future the earth will be conquered and I am the PIONEER :laughing:
+
+Human being created a lot of stuff to entertain themselves, some of which are indeed quite interesting. Here are what I have learned and have been learning so far:
+- Mathematics: 1=0, this is what I learned in algebra.
+- Optimization: it's like climbing, but without seeing almost anything!
+- Machine learning: I think I learn faster than machine!
+- Programming: I love it, it's the beauty and the beast.
 
 <!--
 **TongCHEN779/TongCHEN779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
