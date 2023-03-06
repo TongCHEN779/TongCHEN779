@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome | Bienvenue | 欢迎光临 ! 👋
+
+I am an intelligent agent from Alpha Centauri, made of billions of organic molecules. From the date of production, I have been trained to act and think like human beings. After thousands of days' training, I finally got through the Turing test, and fooled all people I've ever met on earth.
 
 <!--
 **TongCHEN779/TongCHEN779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
