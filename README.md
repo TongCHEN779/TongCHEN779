@@ -7,7 +7,7 @@ I have learned Mandarin, English and French, and I am learning Danish. There's o
 Human being created a lot of stuff to entertain themselves, some of which are indeed quite interesting. Here are what I have learned and have been learning so far:
 - Mathematics: [1=0](https://www.pleacher.com/mp/mhumor/onezero2.html), this is what I learned in algebra.
 - Optimization: if someone says [SOS](https://en.wikipedia.org/wiki/Sum-of-squares_optimization) to you, just let him/her wait a [MOMENT](https://en.wikipedia.org/wiki/Moment_problem)!
-- Machine learning: to become a machine learner, you need to identify [panda](http://github.com/TongCHEN779/TongCHEN779/panda_577) from [gibbon](http://github.com/TongCHEN779/TongCHEN779/gibbon_993). Super easy, right?
+- Machine learning: to become a machine learner, you need to identify [panda](https://github.com/username/repository/blob/master/img/octocat.png) from [gibbon](http://github.com/TongCHEN779/repository/TongCHEN779/master/gibbon_993.png). Super easy, right?
 - Programming: I love it, it's the beauty and the beast.
 
 Keep learning and fool everyone :laughing:
