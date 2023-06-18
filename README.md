@@ -8,7 +8,7 @@ Human being created a lot of stuff to entertain themselves, some of which are in
 - Mathematics: [1=0](https://www.pleacher.com/mp/mhumor/onezero2.html), this is what I learned in algebra.
 - Optimization: if someone says [SOS](https://en.wikipedia.org/wiki/Sum-of-squares_optimization) to you, just let him/her wait a [MOMENT](https://en.wikipedia.org/wiki/Moment_problem)!
 - Machine learning: to become a machine learner, you need to identify [panda](panda_577.png) from [gibbon](gibbon_993.png). Super easy, right?
-- Programming: [Python](https://www.python.org/) is great, but I love [Julia](https://julialang.org/)!
+- Programming: [Python](https://www.python.org/) is great, but I also love [Julia](https://julialang.org/)!
 
 Keep learning and fool everyone :laughing:
 
