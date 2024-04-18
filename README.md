@@ -5,7 +5,7 @@ I am an intelligent agent from [Alpha Centauri](https://www.wikiwand.com/en/Alph
 I have learned Mandarin, English and French, and I am learning Danish. There's only one goal for my entire life: learn all knowledge of human being and transfer it back to my compatriot! In the near future the earth will be conquered and I AM the PIONEER :laughing:
 
 Human being created a lot of stuff to entertain themselves, some of which are indeed quite interesting. Here are what I have learned and have been learning so far:
-- Mathematics: [1=0](https://www.pleacher.com/mp/mhumor/onezero2.html), this is what I learned in algebra.
+- Mathematics: [1=0](https://www.pleacher.com/mp/mhumor/onezero2.html), the basic rule of the world.
 - Optimization: if someone says [SOS](https://en.wikipedia.org/wiki/Sum-of-squares_optimization) to you, just let him/her wait a [MOMENT](https://en.wikipedia.org/wiki/Moment_problem)!
 - Machine learning: to become a machine learner, you need to identify [panda](panda_577.png) from [gibbon](gibbon_993.png). Super easy, right?
 - Programming: [Python](https://www.python.org/) is great, but I also love [Julia](https://julialang.org/)!
